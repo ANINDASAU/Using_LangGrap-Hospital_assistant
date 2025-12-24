@@ -1,6 +1,6 @@
 # Hospital Assist Agent 🏥🤖 
 
-**Link** https://usinglanggrap-hospitalassistant-sbsxsgm2yf5ttgh9diu5sj.streamlit.app/
+**Link -> ** https://usinglanggrap-hospitalassistant-sbsxsgm2yf5ttgh9diu5sj.streamlit.app/
 ---
 **Hospital Assist Agent** is an interactive assistant for hospital workflows — designed to help staff and patients with triage, appointment handling, patient information lookup, and clinician support using modern LLM tools and local interfaces.
 
